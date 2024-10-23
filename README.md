@@ -27,7 +27,7 @@
 
 ## How to Use
 
-- **_Click on the list according to your list_**
+- **_Click on the list according to your Choice_**
 
 ## Project Setup
 
