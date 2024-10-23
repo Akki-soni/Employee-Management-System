@@ -35,7 +35,7 @@ No external dependencies are required. Just clone the repository and open the `i
 
 ```bash
 git clone <https://github.com/Akki-soni/Employee-Management-System.git>
-cd age-calculator
+cd Employee-Management-System
 open index.html
 ```
 
